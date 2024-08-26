@@ -19,8 +19,19 @@ body {
     margin-top: -10px;
 }
 
-.stats-container {
+/* .stats-container {
     display: flex;
+} */
+
+.stats-container {
+    display: flexbox;
+    cursor: pointer;
+
+}
+
+.stats-conrtainer:hover {
+    box-shadow: 0 0 30px lightblue;
+    cursor: pointer;
 }
 
 .stats-card {
