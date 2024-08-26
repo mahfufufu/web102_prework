@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![WebDevPreWork](https://github.com/user-attachments/assets/c1bfa56b-d4be-4889-a9bd-631bf7179781)
 
 <img src='[https://i.imgur.com/ibikFDg.gif](https://i.imgur.com/ibikFDg.gif)' title='Video Walkthrough' width='500' alt='Video Walkthrough'/>
 
