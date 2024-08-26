@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<!-- trunk-ignore(markdownlint/MD033) -->
-<img src='https://file.garden/ZoWiohUEZn-MoXZB/WebDevPreWork.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+<img src='https://file.garden/ZoWiohUEZn-MoXZB/WebDevPreWork.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 Gif created with Licecap
